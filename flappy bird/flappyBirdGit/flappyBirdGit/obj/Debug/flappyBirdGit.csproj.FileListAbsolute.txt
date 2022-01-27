@@ -1,0 +1,10 @@
+C:\Users\serkan\Desktop\flappy bird\flappyBirdGit\flappyBirdGit\obj\Debug\flappyBirdGit.csproj.AssemblyReference.cache
+C:\Users\serkan\Desktop\flappy bird\flappyBirdGit\flappyBirdGit\obj\Debug\flappyBirdGit.Form1.resources
+C:\Users\serkan\Desktop\flappy bird\flappyBirdGit\flappyBirdGit\obj\Debug\flappyBirdGit.Properties.Resources.resources
+C:\Users\serkan\Desktop\flappy bird\flappyBirdGit\flappyBirdGit\obj\Debug\flappyBirdGit.csproj.GenerateResource.cache
+C:\Users\serkan\Desktop\flappy bird\flappyBirdGit\flappyBirdGit\obj\Debug\flappyBirdGit.csproj.CoreCompileInputs.cache
+C:\Users\serkan\Desktop\flappy bird\flappyBirdGit\flappyBirdGit\bin\Debug\flappyBirdGit.exe.config
+C:\Users\serkan\Desktop\flappy bird\flappyBirdGit\flappyBirdGit\bin\Debug\flappyBirdGit.exe
+C:\Users\serkan\Desktop\flappy bird\flappyBirdGit\flappyBirdGit\bin\Debug\flappyBirdGit.pdb
+C:\Users\serkan\Desktop\flappy bird\flappyBirdGit\flappyBirdGit\obj\Debug\flappyBirdGit.exe
+C:\Users\serkan\Desktop\flappy bird\flappyBirdGit\flappyBirdGit\obj\Debug\flappyBirdGit.pdb
